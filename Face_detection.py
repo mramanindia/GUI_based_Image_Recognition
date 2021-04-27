@@ -7,7 +7,7 @@ import cv2
 from random import randrange 
 
 #Now we need to put the trained data of opencv (face_detector_default.xml as data) into trained_face_data variable to use it in detecting face.
-trained_face_data= cv2.CascadeClassifier('data.xml')
+trained_face_data= cv2.CascadeClassifier('Face_data.xml')
 
 #Now we needed input on which we can perform action
 #we can take image as input or even video or a live camera photage as input data
