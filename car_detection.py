@@ -4,7 +4,7 @@ import cv2
 from random import randrange
 
 #taking trained data from open cv
-trained_data= cv2.CascadeClassifier('car.xml')
+trained_data= cv2.CascadeClassifier('car_data.xml')
 #taking video as input
 
 read_frame=cv2.VideoCapture('video.mp4')
