@@ -10,7 +10,7 @@ Its works on using trained data of Opencv and using it to check wheater the imag
 
 We are going to use pip to install Opencv so make sure you are having pip in your system.
 
-For checking and updating pip you can use <code> pip install --upgrade pip </code>
+For checking and updating pip you can use <code> pip install --upgrade pip </code> <br>
 Now you can install the Opencv Liabrary <code> pip install opencv-python </code>
 
 As you have istalled now you just have to go through code and that's it.
